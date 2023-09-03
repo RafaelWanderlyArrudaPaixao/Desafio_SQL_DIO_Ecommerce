@@ -7,33 +7,28 @@ Com os dados inseridos, fizemos algumas perguntas que estará presentes nos prin
 ## Perguntas Criadas
 
 ### Quantidade de clientes do banco de dados
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/1e58b85d-f8fb-4a46-8642-3c3991c99edd)
+![Quantidade](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/63cbc3da-0aeb-4deb-a151-0406a689b52b)
 
 ### Quantidade de pedidos realizados
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/b70464bd-012c-4e4a-a5f9-f8a233032964)
-
-### Quantidade de pedidos por categoria de produtos
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/f75dbf30-7015-49ea-96de-2dbc34c06273)
-
-### Formas de pagamentos mais usadas
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/d97d04c6-59e8-4f90-b296-fc878d0820c8)
-
-### Quais os produtos mais vendidos
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/d2def616-e51b-49f3-b7f9-c6b3daf42fb1)
+![Quantidade de pedidos](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/f3363b07-de41-4a51-987c-057cbd5bdec6)
 
 ### Quais os produtos com menores quantidade em estoque
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/f39e16ea-1eb3-491c-8634-5abad6652f1e)
+![Produtos com menor quantidade em estoque](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/0926bc9a-d4da-4d97-b88b-3b2d0dfcbeb5)
+
+### Quantidade de pedidos por categoria de produtos
+![Quantidade de pedidos por categoria](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/7f335b36-22a1-4fd3-a8ff-eab87740b530)
+
+### Quais os produtos mais vendidos
+![Produtos mais vendidos](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/2075b9eb-3763-4b2e-969c-50281298ebc5)
 
 ### Quais categorias de produtos cada fornecedor oferece
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/08166c2d-8c7f-4f60-837c-02d596a58851)
+![Quantidade de produto que cada fornecedor oferece](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/f4607fe4-b7d5-4552-a370-9316408707e5)
 
-### Receita total gerada
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/45c38db4-2b49-47a8-be61-a33183555b33)
+### Formas de pagamentos mais usadas
+![Formas de pagamentos mais usadas](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/356005e1-4c9b-4b53-8809-b0d2360fe3ec)
 
 ### Receita gerada por cada produto
-![image](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/713bdeee-d1d6-4248-8758-2432681af0e8)
+![Receita gerada por cada produto](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/c23e5d18-f6fd-4d9f-bc56-1ae6d3d0dd3d)
 
-
-
-
-
+### Receita total gerada
+![Receita Total](https://github.com/RafaelWanderlyArrudaPaixao/Desafio_SQL_DIO_Ecommerce/assets/138367006/a5df037e-c283-4c4a-a22a-e38d7905c3c1)
